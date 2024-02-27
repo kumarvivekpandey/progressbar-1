@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.progress {
+  width: 300px;
+  margin: 20px auto;
+  background-color: #eadcdc;
+  border-radius: 50px;
+}
+.progress-bar {
+  margin-top: 20px;
+  height: 33px;
+  border-radius: 50px;
+  background-color: #a3f939ca;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
